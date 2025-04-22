@@ -1,0 +1,2 @@
+Java is Object Oriented
+Java is robust
